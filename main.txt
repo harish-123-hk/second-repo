@@ -1,1 +1,7 @@
 main file
+HEAD
+feature-enhancement updated1
+
+New change for stash practice
+
+5988c5 (git stash practice comoleted)
